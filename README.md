@@ -6,7 +6,7 @@ Version
 
 #DOI
 
-[https://doi.org/10.5281/zenodo.5899547](https://doi.org/10.5281/zenodo.5899547)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5899547.svg)](https://doi.org/10.5281/zenodo.5899547)
 
 # Description
 
